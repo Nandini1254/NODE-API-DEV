@@ -46,4 +46,6 @@ npm start
 ```
 
 - version 1.0.0
+- API postman documention [here](https://documenter.getpostman.com/view/16851561/2s9YJgT12QK
+)
 
